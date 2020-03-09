@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
-    public float speed = 10.0f;
+    public float speed = 1.0f;
     const float hozBoundary = 10;
     // Start is called before the first frame update
     void Start()
